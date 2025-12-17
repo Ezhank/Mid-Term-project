@@ -1,0 +1,1502 @@
+[
+    {
+        "id": 1,
+        "make": "Toyota",
+        "model": "Corolla",
+        "price": 22000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Sedan",
+        "image": "images/toyota_corolla.jpg",
+        "usage_scores": {
+            "City": 9,
+            "Family": 7,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 2,
+        "make": "Honda",
+        "model": "Civic",
+        "price": 24000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Sedan",
+        "image": "images/honda_civic.jpg",
+        "usage_scores": {
+            "City": 8,
+            "Family": 7,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 3,
+        "make": "Tesla",
+        "model": "Model 3",
+        "price": 45000,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Sedan",
+        "image": "images/tesla_model_3.jpg",
+        "usage_scores": {
+            "City": 10,
+            "Family": 6,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 4,
+        "make": "Ford",
+        "model": "F-150",
+        "price": 55000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Truck",
+        "image": "images/ford_f150.jpg",
+        "usage_scores": {
+            "City": 3,
+            "Family": 8,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 5,
+        "make": "Toyota",
+        "model": "RAV4 Hybrid",
+        "price": 32000,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "SUV",
+        "image": "images/toyota_rav4.jpg",
+        "usage_scores": {
+            "City": 8,
+            "Family": 10,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 6,
+        "make": "Mazda",
+        "model": "MX-5 Miata",
+        "price": 28000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Convertible",
+        "image": "images/mazda_mx5.jpg",
+        "usage_scores": {
+            "City": 6,
+            "Family": 2,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 7,
+        "make": "Honda",
+        "model": "CR-V",
+        "price": 18000,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "SUV",
+        "image": "images/honda_crv.jpg",
+        "usage_scores": {
+            "City": 7,
+            "Family": 9,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 8,
+        "make": "BMW",
+        "model": "3 Series",
+        "price": 25000,
+        "condition": "Used",
+        "fuel": "Diesel",
+        "type": "Sedan",
+        "image": "images/bmw_3series.jpg",
+        "usage_scores": {
+            "City": 6,
+            "Family": 6,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 9,
+        "make": "Nissan",
+        "model": "Leaf",
+        "price": 15000,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Hatchback",
+        "image": "images/nissan_leaf.jpg",
+        "usage_scores": {
+            "City": 10,
+            "Family": 5,
+            "Performance": 3
+        }
+    },
+    {
+        "id": 10,
+        "make": "Subaru",
+        "model": "Outback",
+        "price": 31000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "SUV",
+        "image": "images/subaru_outback.jpg",
+        "usage_scores": {
+            "City": 6,
+            "Family": 9,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 11,
+        "make": "Hyundai",
+        "model": "Sonata",
+        "price": 25000,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "Sedan",
+        "image": "images/hyundai_sonata.jpg",
+        "usage_scores": {
+            "City": 9,
+            "Family": 8,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 12,
+        "make": "Chevrolet",
+        "model": "Silverado",
+        "price": 48000,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Truck",
+        "image": "images/chevrolet_silverado.jpg",
+        "usage_scores": {
+            "City": 4,
+            "Family": 7,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 13,
+        "make": "Jeep",
+        "model": "Wrangler",
+        "price": 35000,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "SUV",
+        "image": "images/jeep_wrangler.jpg",
+        "usage_scores": {
+            "City": 5,
+            "Family": 6,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 14,
+        "make": "Kia",
+        "model": "Telluride",
+        "price": 40000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "SUV",
+        "image": "images/kia_telluride.jpg",
+        "usage_scores": {
+            "City": 7,
+            "Family": 10,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 15,
+        "make": "Porsche",
+        "model": "911 Carrera",
+        "price": 110000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "images/porsche_911.jpg",
+        "usage_scores": {
+            "City": 5,
+            "Family": 2,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 16,
+        "make": "Volkswagen",
+        "model": "Golf GTI",
+        "price": 30000,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Hatchback",
+        "image": "images/vw_golf_gti.jpg",
+        "usage_scores": {
+            "City": 9,
+            "Family": 5,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 17,
+        "make": "Volvo",
+        "model": "XC90",
+        "price": 55000,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "SUV",
+        "image": "images/volvo_xc90.jpg",
+        "usage_scores": {
+            "City": 8,
+            "Family": 10,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 18,
+        "make": "Audi",
+        "model": "A4",
+        "price": 42000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Sedan",
+        "image": "images/audi_a4.jpg",
+        "usage_scores": {
+            "City": 8,
+            "Family": 6,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 19,
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "price": 45000,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Sedan",
+        "image": "images/mercedes_c_class.jpg",
+        "usage_scores": {
+            "City": 8,
+            "Family": 6,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 20,
+        "make": "Subaru",
+        "model": "Forester",
+        "price": 28000,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "SUV",
+        "image": "images/subaru_forester.jpg",
+        "usage_scores": {
+            "City": 7,
+            "Family": 9,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 21,
+        "make": "Toyota",
+        "model": "Camry",
+        "price": 26000,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "Sedan",
+        "image": "images/toyota_camry.jpg",
+        "usage_scores": {
+            "City": 9,
+            "Family": 8,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 22,
+        "make": "Ford",
+        "model": "Mustang GT",
+        "price": 45000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "images/ford_mustang.jpg",
+        "usage_scores": {
+            "City": 5,
+            "Family": 3,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 23,
+        "make": "Chevrolet",
+        "model": "Bolt EV",
+        "price": 27000,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Hatchback",
+        "image": "images/chevrolet_bolt.jpg",
+        "usage_scores": {
+            "City": 10,
+            "Family": 5,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 24,
+        "make": "Ram",
+        "model": "1500",
+        "price": 42000,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Truck",
+        "image": "images/ram_1500.jpg",
+        "usage_scores": {
+            "City": 4,
+            "Family": 8,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 25,
+        "make": "Lexus",
+        "model": "RX 350",
+        "price": 52000,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "SUV",
+        "image": "images/lexus_rx.jpg",
+        "usage_scores": {
+            "City": 8,
+            "Family": 9,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 26,
+        "make": "Hyundai",
+        "model": "Tucson",
+        "price": 29000,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "SUV",
+        "image": "images/hyundai_tucson.jpg",
+        "usage_scores": {
+            "City": 8,
+            "Family": 9,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 27,
+        "make": "Mazda",
+        "model": "CX-5",
+        "price": 31000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "SUV",
+        "image": "images/mazda_cx5.jpg",
+        "usage_scores": {
+            "City": 7,
+            "Family": 9,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 28,
+        "make": "Dodge",
+        "model": "Challenger",
+        "price": 35000,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "images/dodge_challenger.jpg",
+        "usage_scores": {
+            "City": 4,
+            "Family": 4,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 29,
+        "make": "Toyota",
+        "model": "Prius",
+        "price": 29000,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "Hatchback",
+        "image": "images/toyota_prius.jpg",
+        "usage_scores": {
+            "City": 10,
+            "Family": 7,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 30,
+        "make": "Tesla",
+        "model": "Model Y",
+        "price": 50000,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "SUV",
+        "image": "images/tesla_model_y.jpg",
+        "usage_scores": {
+            "City": 9,
+            "Family": 9,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 31,
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "price": 57048,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "SUV",
+        "image": "",
+        "usage_scores": {
+            "City": 5,
+            "Family": 10,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 32,
+        "make": "Chevrolet",
+        "model": "Tahoe",
+        "price": 42860,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 5,
+            "Family": 10,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 33,
+        "make": "Kia",
+        "model": "Forte",
+        "price": 53892,
+        "condition": "Used",
+        "fuel": "Diesel",
+        "type": "SUV",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 6,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 34,
+        "make": "Ford",
+        "model": "Escape",
+        "price": 48993,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Sedan",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 10,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 35,
+        "make": "Lexus",
+        "model": "IS",
+        "price": 67484,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 10,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 36,
+        "make": "Audi",
+        "model": "Q5",
+        "price": 66489,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 8,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 37,
+        "make": "Audi",
+        "model": "A4",
+        "price": 67321,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "Convertible",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 6,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 38,
+        "make": "Subaru",
+        "model": "Crosstrek",
+        "price": 33218,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "SUV",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 10,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 39,
+        "make": "Chevrolet",
+        "model": "Tahoe",
+        "price": 28999,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 6,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 40,
+        "make": "Mazda",
+        "model": "Mazda6",
+        "price": 41256,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 6,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 41,
+        "make": "Nissan",
+        "model": "Pathfinder",
+        "price": 25387,
+        "condition": "Used",
+        "fuel": "Diesel",
+        "type": "SUV",
+        "image": "",
+        "usage_scores": {
+            "City": 5,
+            "Family": 6,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 42,
+        "make": "BMW",
+        "model": "3 Series",
+        "price": 64976,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Hatchback",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 10,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 43,
+        "make": "Nissan",
+        "model": "Pathfinder",
+        "price": 40138,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Sedan",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 3,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 44,
+        "make": "Audi",
+        "model": "e-tron",
+        "price": 71788,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Sedan",
+        "image": "",
+        "usage_scores": {
+            "City": 9,
+            "Family": 3,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 45,
+        "make": "BMW",
+        "model": "X3",
+        "price": 67311,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "Convertible",
+        "image": "",
+        "usage_scores": {
+            "City": 5,
+            "Family": 10,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 46,
+        "make": "BMW",
+        "model": "M3",
+        "price": 79106,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 10,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 47,
+        "make": "Audi",
+        "model": "Q5",
+        "price": 69987,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 9,
+            "Family": 5,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 48,
+        "make": "Kia",
+        "model": "Forte",
+        "price": 27155,
+        "condition": "Used",
+        "fuel": "Hybrid",
+        "type": "Hatchback",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 6,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 49,
+        "make": "Kia",
+        "model": "Sportage",
+        "price": 28601,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Hatchback",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 4,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 50,
+        "make": "BMW",
+        "model": "M3",
+        "price": 50364,
+        "condition": "Used",
+        "fuel": "Diesel",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 5,
+            "Family": 10,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 51,
+        "make": "Subaru",
+        "model": "Legacy",
+        "price": 39370,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 6,
+            "Performance": 3
+        }
+    },
+    {
+        "id": 52,
+        "make": "Mazda",
+        "model": "CX-9",
+        "price": 42697,
+        "condition": "New",
+        "fuel": "Hybrid",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 3,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 53,
+        "make": "Toyota",
+        "model": "Camry",
+        "price": 34504,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 8,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 54,
+        "make": "Ford",
+        "model": "Ranger",
+        "price": 38728,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 9,
+            "Family": 5,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 55,
+        "make": "Hyundai",
+        "model": "Tucson",
+        "price": 15407,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 10,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 56,
+        "make": "Tesla",
+        "model": "Model 3",
+        "price": 60500,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Convertible",
+        "image": "",
+        "usage_scores": {
+            "City": 6,
+            "Family": 4,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 57,
+        "make": "Honda",
+        "model": "Fit",
+        "price": 55609,
+        "condition": "Used",
+        "fuel": "Hybrid",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 9,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 58,
+        "make": "Mazda",
+        "model": "MX-5 Miata",
+        "price": 46614,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 6,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 59,
+        "make": "Honda",
+        "model": "Fit",
+        "price": 21373,
+        "condition": "Used",
+        "fuel": "Hybrid",
+        "type": "SUV",
+        "image": "",
+        "usage_scores": {
+            "City": 5,
+            "Family": 10,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 60,
+        "make": "BMW",
+        "model": "3 Series",
+        "price": 64337,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 10,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 61,
+        "make": "Tesla",
+        "model": "Model X",
+        "price": 74712,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 5,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 62,
+        "make": "Kia",
+        "model": "Sorento",
+        "price": 20879,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Hatchback",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 7,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 63,
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "price": 52957,
+        "condition": "Used",
+        "fuel": "Diesel",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 7,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 64,
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "price": 55575,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Convertible",
+        "image": "",
+        "usage_scores": {
+            "City": 6,
+            "Family": 3,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 65,
+        "make": "Toyota",
+        "model": "Prius",
+        "price": 15926,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 6,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 66,
+        "make": "Toyota",
+        "model": "Prius",
+        "price": 16354,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Convertible",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 8,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 67,
+        "make": "BMW",
+        "model": "5 Series",
+        "price": 44489,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 3,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 68,
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "price": 63522,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "SUV",
+        "image": "",
+        "usage_scores": {
+            "City": 6,
+            "Family": 6,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 69,
+        "make": "Honda",
+        "model": "HR-V",
+        "price": 42724,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Hatchback",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 6,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 70,
+        "make": "Nissan",
+        "model": "Sentra",
+        "price": 24087,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 6,
+            "Performance": 3
+        }
+    },
+    {
+        "id": 71,
+        "make": "Tesla",
+        "model": "Model X",
+        "price": 63806,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Hatchback",
+        "image": "",
+        "usage_scores": {
+            "City": 6,
+            "Family": 3,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 72,
+        "make": "Mazda",
+        "model": "Mazda6",
+        "price": 20615,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 6,
+            "Family": 10,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 73,
+        "make": "Tesla",
+        "model": "Model Y",
+        "price": 50552,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 9,
+            "Family": 6,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 74,
+        "make": "Ford",
+        "model": "F-150",
+        "price": 46120,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 9,
+            "Family": 7,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 75,
+        "make": "Tesla",
+        "model": "Model X",
+        "price": 40869,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 5,
+            "Family": 5,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 76,
+        "make": "Nissan",
+        "model": "Leaf",
+        "price": 26956,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Hatchback",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 6,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 77,
+        "make": "Kia",
+        "model": "Sorento",
+        "price": 32271,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "SUV",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 10,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 78,
+        "make": "Lexus",
+        "model": "ES",
+        "price": 70948,
+        "condition": "Used",
+        "fuel": "Hybrid",
+        "type": "Convertible",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 10,
+            "Performance": 5
+        }
+    },
+    {
+        "id": 79,
+        "make": "Subaru",
+        "model": "Crosstrek",
+        "price": 37739,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 9,
+            "Family": 10,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 80,
+        "make": "Audi",
+        "model": "e-tron",
+        "price": 52016,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 7,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 81,
+        "make": "Audi",
+        "model": "e-tron",
+        "price": 57938,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Sedan",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 4,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 82,
+        "make": "BMW",
+        "model": "M3",
+        "price": 67799,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "SUV",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 10,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 83,
+        "make": "Audi",
+        "model": "A4",
+        "price": 57196,
+        "condition": "Used",
+        "fuel": "Hybrid",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 10,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 84,
+        "make": "Toyota",
+        "model": "Camry",
+        "price": 49111,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 10,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 85,
+        "make": "Toyota",
+        "model": "Yaris",
+        "price": 17568,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Sedan",
+        "image": "",
+        "usage_scores": {
+            "City": 9,
+            "Family": 8,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 86,
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "price": 39460,
+        "condition": "New",
+        "fuel": "Diesel",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 6,
+            "Family": 6,
+            "Performance": 3
+        }
+    },
+    {
+        "id": 87,
+        "make": "Lexus",
+        "model": "GX",
+        "price": 41856,
+        "condition": "Used",
+        "fuel": "Diesel",
+        "type": "Hatchback",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 10,
+            "Performance": 3
+        }
+    },
+    {
+        "id": 88,
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "price": 51762,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 9,
+            "Family": 10,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 89,
+        "make": "Honda",
+        "model": "Fit",
+        "price": 17836,
+        "condition": "Used",
+        "fuel": "Hybrid",
+        "type": "Hatchback",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 6,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 90,
+        "make": "Nissan",
+        "model": "Rogue",
+        "price": 25949,
+        "condition": "Used",
+        "fuel": "Hybrid",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 9,
+            "Family": 10,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 91,
+        "make": "Lexus",
+        "model": "ES",
+        "price": 46682,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 9,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 92,
+        "make": "Honda",
+        "model": "Fit",
+        "price": 38344,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 4,
+            "Family": 7,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 93,
+        "make": "Lexus",
+        "model": "NX",
+        "price": 60624,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Sedan",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 4,
+            "Performance": 3
+        }
+    },
+    {
+        "id": 94,
+        "make": "Subaru",
+        "model": "Outback",
+        "price": 46321,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 8,
+            "Performance": 8
+        }
+    },
+    {
+        "id": 95,
+        "make": "Chevrolet",
+        "model": "Equinox",
+        "price": 51772,
+        "condition": "New",
+        "fuel": "Electric",
+        "type": "SUV",
+        "image": "",
+        "usage_scores": {
+            "City": 10,
+            "Family": 5,
+            "Performance": 7
+        }
+    },
+    {
+        "id": 96,
+        "make": "Audi",
+        "model": "Q5",
+        "price": 63054,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Truck",
+        "image": "",
+        "usage_scores": {
+            "City": 6,
+            "Family": 3,
+            "Performance": 9
+        }
+    },
+    {
+        "id": 97,
+        "make": "Mazda",
+        "model": "Mazda3",
+        "price": 22863,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Convertible",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 6,
+            "Performance": 4
+        }
+    },
+    {
+        "id": 98,
+        "make": "Chevrolet",
+        "model": "Bolt EV",
+        "price": 20602,
+        "condition": "Used",
+        "fuel": "Electric",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 6,
+            "Family": 4,
+            "Performance": 6
+        }
+    },
+    {
+        "id": 99,
+        "make": "Mazda",
+        "model": "MX-5 Miata",
+        "price": 39382,
+        "condition": "New",
+        "fuel": "Petrol",
+        "type": "Coupe",
+        "image": "",
+        "usage_scores": {
+            "City": 7,
+            "Family": 9,
+            "Performance": 10
+        }
+    },
+    {
+        "id": 100,
+        "make": "Lexus",
+        "model": "GX",
+        "price": 45998,
+        "condition": "Used",
+        "fuel": "Petrol",
+        "type": "Minivan",
+        "image": "",
+        "usage_scores": {
+            "City": 8,
+            "Family": 5,
+            "Performance": 8
+        }
+    }
+]
